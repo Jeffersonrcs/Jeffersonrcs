@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, JS, Nodejs, SQL
+- 🌱 I’m currently learning HTML, CSS, JS, Nodejs e SQL
